@@ -1,0 +1,10 @@
+Best model: Logistic Regression
+
+              precision    recall  f1-score   support
+
+ No diabetes       0.75      0.82      0.78       100
+    Diabetes       0.60      0.50      0.55        54
+
+    accuracy                           0.71       154
+   macro avg       0.68      0.66      0.67       154
+weighted avg       0.70      0.71      0.70       154

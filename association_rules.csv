@@ -1,0 +1,6 @@
+antecedents,consequents,support,confidence,lift
+"Age=30-45, BMI=obese, Glucose=high",Outcome=Yes,0.0859375,0.7764705882352941,2.225109745390694
+"Age=30-45, Glucose=high",Outcome=Yes,0.09895833333333333,0.7169811320754716,2.0546324978879187
+"BMI=obese, BloodPressure=normal, Glucose=high",Outcome=Yes,0.11458333333333333,0.7096774193548387,2.0337024554646126
+"BMI=obese, Glucose=high",Outcome=Yes,0.1953125,0.7009345794392523,2.0086483470497978
+"Glucose=high, Pregnancies=6+",Outcome=Yes,0.09114583333333333,0.6796116504854369,1.9475438342269238
